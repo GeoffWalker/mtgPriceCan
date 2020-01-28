@@ -8,7 +8,6 @@ verify_ssl = true
 [packages]
 beautifulsoup4 = "*"
 click = "*"
-mtgpricecan = {path = "."}
 
 [requires]
 python_version = "3.6"

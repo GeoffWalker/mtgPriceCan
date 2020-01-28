@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "6ece36d67d151af5daa7d590190316e61f268c1fe834fa055fd5de15055089d8"
+            "sha256": "752808ede1462dfcdb730fa18c4b205c3302d796b9e8e58d5542b7b8b4672d4c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -32,9 +32,6 @@
             ],
             "index": "pypi",
             "version": "==7.0"
-        },
-        "mtgpricecan": {
-            "path": "."
         },
         "soupsieve": {
             "hashes": [
